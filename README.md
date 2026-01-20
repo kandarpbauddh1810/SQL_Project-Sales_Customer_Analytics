@@ -25,7 +25,7 @@ This system enables data-driven decision-making using SQL and Python-based analy
 - mysql-connector-python
 
 **Tools**
-- Jupyter Notebook / VS Code
+- VS Code
 - GitHub
 
 ---
